@@ -1,0 +1,8 @@
+{
+    "selectors": {
+        "ol_tag": "ol.row",
+        "li_tag": "li",
+        "article": "article.product_pod",
+        "image_container": "div.image_container > a"
+    }
+}
